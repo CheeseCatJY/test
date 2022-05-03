@@ -262,7 +262,7 @@ ul.dropdown ul span{
 		}
 		.home-column h3{
 			font-size:14px;
-			color:#d92b19;
+			color:#013b93;
 			text-transform:uppercase;
 			margin:-3px 0 5px 60px;
 			line-height:1.5em;
@@ -282,7 +282,7 @@ ul.dropdown ul span{
 			margin-bottom:10px;
 		}
 		#home-case-study h2, #blog-area h2{
-			color: #000 !important;
+			color: #000;
 			font-size:25px;
 			line-height:1em;
 		}
@@ -304,13 +304,13 @@ ul.dropdown ul span{
 		}
 		.blog-post-home:hover{
 			background:#f6f5f5;
-			border-bottom:2px solid #d92b19;
+			border-bottom:2px solid #013b93;
 		}
 		h2.home-blog-title{
 			font-size:12px!important;
-			background:#d92b19;
+			background:#013b93;
 			padding:10px;
-			color:#fff;
+			color:#fff !important;
 			line-height:normal;
 			margin:0;
 		}
